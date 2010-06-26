@@ -1,0 +1,10 @@
+How to Install
+--------------
+
+Firefox: Download GreaseMonkey addon and browse to the raw version of this script. Install and you're done.
+
+Opera: Place this file somewhere locally and then browse to:
+       Settings -> Preferences -> Advanced -> Content -> JavaScript Options -> User JavaScript folder
+       Add the folder where the user script resides
+
+Chrome: If your version of Chrome supports extension, browse to the raw version of this script. Install as an Extension and you're done.
